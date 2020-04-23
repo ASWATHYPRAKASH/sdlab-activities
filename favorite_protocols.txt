@@ -1,0 +1,4 @@
+tcp 6 TCP #transmission control protocol 
+udp 17 UDP #user datagram protocol 
+ipip 94 IPIP #IP-within-IP Encapsulation Protocol 
+skip 57 SKIP #SKIP
